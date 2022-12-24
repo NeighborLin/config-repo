@@ -1,0 +1,7 @@
+alias rm='rm -i'
+alias l='ls -lrt'
+alias view='vim -R'
+alias gotmp='cd /d/temp/'
+alias goe='cd /c/Users/Administrator/OneDrive/'
+alias findf='find . -type f'
+alias tree='tree.sh'
